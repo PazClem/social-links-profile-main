@@ -36,7 +36,7 @@ h2 {
 }
 
 .location {
-    color: #a3ff12;
+    color: hsl(75, 94%, 57%);
     font-size: 14px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -65,5 +65,5 @@ h2 {
 }
 
 .btn:hover {
-    background: #555;
+    background: hsl(75, 94%, 57%);
 }
